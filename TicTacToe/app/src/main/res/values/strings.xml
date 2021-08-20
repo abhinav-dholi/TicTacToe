@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="heading">Tic Tac Toe by Abhinav Dholi</string>
+    <string name="grid">main grid</string>
+</resources>
